@@ -1,0 +1,34 @@
+.fontOne {
+  font-family: "Nunito Sans", sans-serif;
+}
+.fontTwo {
+  font-family: "Indie Flower", cursive;
+}
+.fontThree {
+  font-family: "Mrs Sheppards", cursive;
+}
+.fontFour {
+  font-family: 'Pacifico', cursive;
+}
+.fontFive {
+  font-family: 'Lobster', cursive;
+}
+
+a {
+  color: whitesmoke;
+  font-family: "Nunito Sans", sans-serif;
+}
+a:hover {
+  color: whitesmoke;
+  text-decoration: none;
+  font-family: "Indie Flower", cursive;
+  font-weight: bolder;
+}
+
+.link-look {
+  margin-left: 100px;
+  font-size: 20px;
+}
+.link-look:hover {
+  font-size: 25px;
+}
