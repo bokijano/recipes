@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/recipes-and-food-shop/precache-manifest.0c38ef13b5c0ae9c8cecfcd32524b79b.js"
+  "/recipes-and-food-shop/precache-manifest.118e0191f99d8014c0d0642c84943a04.js"
 );
 
 workbox.clientsClaim();
