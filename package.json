@@ -2,7 +2,7 @@
   "name": "food-online-sale",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bokijano.github.io/recipes-and-food-shop",
+  "homepage": "https://bokijano.github.io/recipes",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
