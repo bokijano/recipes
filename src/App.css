@@ -8,27 +8,28 @@
   font-family: "Mrs Sheppards", cursive;
 }
 .fontFour {
-  font-family: 'Pacifico', cursive;
+  font-family: "Pacifico", cursive;
 }
 .fontFive {
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
 }
 
-a {
-  color: whitesmoke;
-  font-family: "Nunito Sans", sans-serif;
-}
-a:hover {
+.custom-look {
   color: whitesmoke;
   text-decoration: none;
   font-family: "Indie Flower", cursive;
   font-weight: bolder;
+  background: #333;
+  height: 70px;
+  padding-left: 20px;
+  padding-top: 20px;
+  font-size: 22px;
 }
 
-.link-look {
-  margin-left: 100px;
-  font-size: 20px;
-}
-.link-look:hover {
-  font-size: 25px;
+@media screen and (min-width: 769px) {
+  .custom-look {
+    padding-left: 150px;
+    padding-top: 15px;
+    font-size: 30px;
+  }
 }

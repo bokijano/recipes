@@ -46,16 +46,16 @@ export default class RecipeList extends Component {
   render() {
     return (
       <React.Fragment>
-        <div style={{ marginTop: "80px" }} className="container">
+        <div style={{ marginTop: "30px" }} className="container">
           <div className="row">
             <div className="col-10 mx-auto col-md-6 text-center text-uppercase mb-3">
-              <h1 style={{ fontSize: "50px" }} className="fontFive">
+              <h1 style={{ fontSize: "40px" }} className="fontFive">
                 best recipes
               </h1>
             </div>
           </div>
 
-          <div style={{ marginTop: "30px" }} className="row">
+          <div style={{ marginTop: "10px" }} className="row">
             {this.displayPage(this.state.pageIndex)}
           </div>
         </div>
